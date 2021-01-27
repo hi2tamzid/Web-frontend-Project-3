@@ -2,6 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/hi2tamzid/Web-frontend-Project-3/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
+Technology: HTML5, CSS3, Javascript, Bootstrap
+Site Link: https://hi2tamzid.github.io/Web-frontend-Project-3/
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
